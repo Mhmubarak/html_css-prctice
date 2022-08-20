@@ -1,0 +1,17 @@
+h3{
+	font-size: 50px;
+}
+
+.heading_1{
+	background-color:yellow ;
+}
+
+#text1{
+	border: 1px dashed red ;
+}
+
+.box{
+	width: 200px;
+	height: 200px;
+	background-color: red;
+}
